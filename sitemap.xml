@@ -1,0 +1,71 @@
+<!-- Lewis Cruz
+     4/30/2020
+     sitemap.xml for Horiseon's website.
+     All URLs are submitted to Google for indexing using
+     a sitemap.
+-->
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://www.horiseon.com/</loc>
+
+      <lastmod>2005-01-01</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>http://www.horiseon.com/catalog?item=12&amp;desc=search_engine_optimization</loc>
+
+      <lastmod>2005-01-01</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+    <url>
+
+      <loc>http://www.horiseon.com/catalog?item=12&amp;desc=online_reputation_management</loc>
+
+      <lastmod>2005-01-01</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.horiseon.com/catalog?item=12&amp;desc=social_media_marketing</loc>
+
+      <lastmod>2005-01-01</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+
+
+</urlset> 
+
+
+
+
+
+
+
+
